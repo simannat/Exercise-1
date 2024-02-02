@@ -70,12 +70,12 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My name is Mannatpreet Singh, but you can call me Mannat");
-        System.out.println();
+        System.out.println("I am student at Sheridan");
         
         System.out.println("My career ambitions:");
         System.out.println("-- Be more active on LinkedIn");
         System.out.println("-- Have a semester with no violations of academic integrity!");
-        System.out.println();	
+        System.out.println();
 
         System.out.println("My hobbies:");
         System.out.println("-- Investing");
